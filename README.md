@@ -58,7 +58,7 @@ Este é o meu primeiro portfólio desenvolvido para apresentar meus projetos, ha
 
 ## 📬 Contato
 Caso tenha sugestões ou queira entrar em contato, me encontre em:
-- **LinkedIn:** ([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/evilaoliveira/))
+- [**LinkedIn**](https://www.linkedin.com/in/evilaoliveira/)
 
 ---
 🛠️ Desenvolvido por Évila com ❤️ e dedicação!
